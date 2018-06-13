@@ -227,6 +227,12 @@ header {
   margin-bottom: 50px;
 }
 
+.works-step img {
+ text-align: center;
+ margin-left: 80px;
+
+}
+
 .works-step:last-of-type {
   margin-bottom: 80px;
 }
@@ -239,6 +245,11 @@ header {
   font-weight: 300;
   margin-right: 25px;
 }
+
+#counter {
+  color: #4caf50;
+  font-weight: 300;
+ }
 
 /* ------------------------------------*/
 /* FORM*/
@@ -284,8 +295,24 @@ footer p {
   margin-top: 10px;
 }
 
-#myprogressBar {
+
+
+/* ------------------------------------*/
+/* LEADERBOARD*/
+/* ------------------------------------*/
+.leaderboard div {
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+}
+
+.leader-label {
+  text-align: left;
+}
+
+.progress {
   width: 1%;
   height: 20px;
   background-color: #4caf50;
+  margin-top: 10px;
 }

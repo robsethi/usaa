@@ -1,0 +1,9 @@
+{
+    "name": "bk-usaa-nw-tutorial",
+    "version": "0.0.1",
+    "description": "Building exciting web apps",
+    "author": "Robert Sethi",
+    "devDependencies": {
+        "babel-cli": "^6.0.0"
+    }
+}
